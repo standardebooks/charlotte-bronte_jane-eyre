@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 340">
-	<title>The titlepage for the Standard Ebooks edition of Jane Eyre, by Charlotte Bronte</title>
+	<title>The titlepage for the Standard Ebooks edition of Jane Eyre: An Autobiography, by Charlotte Brontë</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -17,5 +17,5 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">JANE EYRE</text>
-	<text class="author" x="700" y="290">CHARLOTTE BRONTE</text>
+	<text class="author" x="700" y="290">CHARLOTTE BRONTË</text>
 </svg>
