@@ -7,6 +7,12 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+/* abbreviation semantics */
 abbr.era{
 	font-variant: all-small-caps;
 }
@@ -15,6 +21,7 @@ abbr.time{
 	font-variant: all-small-caps;
 }
 
+/* song semantics */
 [epub|type~="z3998:song"] p{
 	text-align: left;
 	text-indent: 0;
@@ -38,6 +45,7 @@ abbr.time{
 	text-indent: 0;
 }
 
+/* poem semantics */
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
@@ -62,7 +70,22 @@ p span.i1{
 	padding-left: 2em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
+/* letter semantics */
+footer{
+	margin-top: 1em;
+	text-align: right;
 }
+
+[epub|type~="z3998:letter"] + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+.signature{
+	font-variant: small-caps;
+}
+
