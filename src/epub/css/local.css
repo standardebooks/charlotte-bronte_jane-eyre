@@ -17,50 +17,31 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
-abbr.time{
-	font-variant: all-small-caps;
-}
-
-/* song semantics */
-[epub|type~="z3998:song"] p{
-	text-align: left;
-	text-indent: 0;
-}
-
-[epub|type~="z3998:song"] p > span{
-	display: block;
-	text-indent: -1em;
-	padding-left: 1em;
-}
-
-[epub|type~="z3998:song"] p > span + br{
-	display: none;
-}
-
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
-}
-
-[epub|type~="z3998:song"] + p{
-	text-indent: 0;
-}
-
-/* poem semantics */
+/* song & poem semantics */
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
 
+[epub|type~="z3998:song"] p + p,
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:song"] + p,
 [epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
@@ -74,15 +55,6 @@ p span.i1{
 footer{
 	margin-top: 1em;
 	text-align: right;
-}
-
-[epub|type~="z3998:letter"] + p{
-	text-indent: 0;
-}
-
-[epub|type~="z3998:sender"],
-[epub|type~="z3998:salutation"]{
-	font-variant: small-caps;
 }
 
 .signature{
