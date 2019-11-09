@@ -28,7 +28,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Jane Eyre</dc:title>
-		<meta property="file-as" refines="#title">Jane Eyre: An Autobiography</meta>
+		<meta property="file-as" refines="#title">Jane Eyre</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">An Autobiography</dc:title>
+		<meta property="file-as" refines="#subtitle">Autobiography, An</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Jane Eyre: An Autobiography</dc:title>
+		<meta property="file-as" refines="#fulltitle">Jane Eyre</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Orphans -- Fiction</dc:subject>
 		<dc:subject id="subject-2">England -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Young women -- Fiction</dc:subject>
@@ -74,8 +81,8 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jane_Eyre</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-bronte_jane-eyre</meta>
-		<dc:creator id="author">Charlotte Bronte</dc:creator>
-		<meta property="file-as" refines="#author">Bronte, Charlotte</meta>
+		<dc:creator id="author">Charlotte Brontë</dc:creator>
+		<meta property="file-as" refines="#author">Brontë, Charlotte</meta>
 		<meta property="se:name.person.pen-name" refines="#author">Currer Bell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charlotte_Bronte</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054114</meta>
