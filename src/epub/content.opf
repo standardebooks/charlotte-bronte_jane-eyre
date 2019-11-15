@@ -70,7 +70,7 @@
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">sh2003003087</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A woman is hired as a governess by the mysterious master of Thornfield Hall for his young ward.</dc:description>
+		<dc:description id="description">A woman is hired by the mysterious master of Thornfield Hall as a governess for his young ward.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Jane Eyre experienced abuse at a young age, not only from her aunt—who raised her after both her parents died—but also from the headmaster of Lowood Institution, where she is sent away to. After ten years of living and teaching at Lowood Jane decides she is ready to see more of the world and takes a position as a governess at Thornfield Hall. Jane later meets the mysterious master of Thornfield Hall, Mr. Rochester, and becomes drawn to him.&lt;/p&gt;
 			&lt;p&gt;Under the pen name “Currer Bell,” Charlotte Brontë published &lt;i&gt;Jane Eyre: An Autobiography&lt;/i&gt; on October 16th 1847. This novel is known for revolutionizing prose fiction and considered to be ahead of its time because of its topics on class, religion, and feminism.&lt;/p&gt;
