@@ -78,7 +78,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1260</dc:source>
 		<dc:source>https://books.google.com/books?id=U9t4uzK2H0oC</dc:source>
-		<meta property="se:word-count">187894</meta>
+		<meta property="se:word-count">187895</meta>
 		<meta property="se:reading-ease.flesch">68.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jane_Eyre</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-bronte_jane-eyre</meta>
