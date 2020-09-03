@@ -7,11 +7,6 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 /* abbreviation semantics */
 abbr.era{
 	font-variant: all-small-caps;
