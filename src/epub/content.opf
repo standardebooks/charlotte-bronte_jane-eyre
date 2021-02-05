@@ -70,6 +70,9 @@
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">sh2003003087</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">12</meta>
 		<dc:description id="description">A woman is hired by the mysterious master of Thornfield Hall as a governess for his young ward.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Jane Eyre experienced abuse at a young age, not only from her aunt—who raised her after both her parents died—but also from the headmaster of Lowood Institution, where she is sent away to. After ten years of living and teaching at Lowood Jane decides she is ready to see more of the world and takes a position as a governess at Thornfield Hall. Jane later meets the mysterious master of Thornfield Hall, Mr. Rochester, and becomes drawn to him.&lt;/p&gt;
