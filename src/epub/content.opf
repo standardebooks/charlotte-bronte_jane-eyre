@@ -99,6 +99,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vilhelm_Hammersh%C3%B8i</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83032886</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="annotator-1">François Grandjean</dc:contributor>
+		<meta property="file-as" refines="annotator-1">Grandjean, François</meta>
+		<meta property="role" refines="#annotator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
