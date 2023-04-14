@@ -82,7 +82,10 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1260</dc:source>
+		<!--primary page scans-->
 		<dc:source>https://books.google.com/books?id=U9t4uzK2H0oC</dc:source>
+		<!--French translations-->
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.126383</dc:source>
 		<meta property="se:word-count">187959</meta>
 		<meta property="se:reading-ease.flesch">68.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jane_Eyre</meta>
