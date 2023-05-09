@@ -88,7 +88,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.126383</dc:source>
 		<!--German translations-->
 		<dc:source>https://archive.org/details/worksoffrederick04schi/</dc:source>
-		<meta property="se:word-count">187959</meta>
+		<meta property="se:word-count">187961</meta>
 		<meta property="se:reading-ease.flesch">68.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jane_Eyre</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-bronte_jane-eyre</meta>
