@@ -95,7 +95,7 @@
 		<dc:creator id="author">Charlotte Brontë</dc:creator>
 		<meta property="file-as" refines="#author">Brontë, Charlotte</meta>
 		<meta property="se:name.person.pen-name" refines="#author">Currer Bell</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charlotte_Bronte</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charlotte_Brontë</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054114</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
