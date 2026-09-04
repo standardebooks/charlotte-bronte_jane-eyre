@@ -37,16 +37,16 @@
 		<dc:title id="fulltitle">Jane Eyre: An Autobiography</dc:title>
 		<meta property="file-as" refines="#fulltitle">Jane Eyre</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Orphans -- Fiction</dc:subject>
-		<dc:subject id="subject-2">England -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Orphans--Fiction</dc:subject>
+		<dc:subject id="subject-2">England--Fiction</dc:subject>
+		<dc:subject id="subject-3">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-4">Love stories</dc:subject>
-		<dc:subject id="subject-5">Governesses -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Fathers and daughters -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Mentally ill women -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Charity-schools -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Married people -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Country homes -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Governesses--Fiction</dc:subject>
+		<dc:subject id="subject-6">Fathers and daughters--Fiction</dc:subject>
+		<dc:subject id="subject-7">Mentally ill women--Fiction</dc:subject>
+		<dc:subject id="subject-8">Charity-schools--Fiction</dc:subject>
+		<dc:subject id="subject-9">Married people--Fiction</dc:subject>
+		<dc:subject id="subject-10">Country homes--Fiction</dc:subject>
 		<dc:subject id="subject-11">Bildungsromans</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108587</meta>
