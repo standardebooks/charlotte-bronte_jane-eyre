@@ -96,7 +96,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.126383</dc:source>
 		<!--German translations-->
 		<dc:source>https://archive.org/details/worksoffrederick04schi</dc:source>
-		<meta property="schema:wordCount">186958</meta>
+		<meta property="schema:wordCount">186957</meta>
 		<meta property="schema:educationalLevel">68.81</meta>
 		<link href="https://en.wikipedia.org/wiki/Jane_Eyre" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
